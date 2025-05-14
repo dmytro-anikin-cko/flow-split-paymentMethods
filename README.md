@@ -49,7 +49,7 @@ http://localhost:3000
 
 ## 📁 Project Structure
 ```bash
-checkout-flow-demo/
+flow-split-paymentMethods/
 │
 ├── public/
 │   ├── index.html      # Frontend UI
