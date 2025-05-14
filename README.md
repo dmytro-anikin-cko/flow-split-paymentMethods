@@ -23,7 +23,7 @@ This is a simple full-stack demo of a payment form powered by **Checkout.com Flo
 
 ```bash
 git clone https://github.com/dmytro-anikin-cko/flow-split-paymentMethods.git
-cd checkout-flow-demo
+cd flow-split-paymentMethods
 ```
 
 ### 2. Install dependencies
