@@ -1,0 +1,17 @@
+{
+  "name": "flow-split-paymentmethods",
+  "version": "1.0.0",
+  "description": "Simple Flow demo demostrating its ablility to split payment methods",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "tailwindcss": "^4.1.6"
+  }
+}
